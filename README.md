@@ -26,4 +26,4 @@ Através deste projeto, aprendi como os desenvolvedores web mais experientes org
 <h3>Como foi feita estrutura da página</h3>
 <p>Para fazer a estrura do site foram utilizadas vários elementos semânticos - como header, section, footer - que definem as diferentes partes de uma página web.<br> Exsitem outras formas de estrurar os sites como a utilização de divs e flexbox, mas para esta página, a opção utilizada foi com esses elementos semânticos do HTML5. E toda a configuração desses elementos semântcos, para centralizá-los, colocar bordas e cores para a página ficar bonita, foi feita através do CSS.</p>
 
-Obrigado por chegar até o final!!! :) 
+Obrigado por chegar até o final! :) 
